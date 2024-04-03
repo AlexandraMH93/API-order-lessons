@@ -66,7 +66,10 @@ Use .env.example to create .env file with your own settings. To start the api se
 - Ref: "teacher_ratings"."user_id" > "users"."id"
 - Ref: "teacher_ratings"."teacher_id" > "teacher_info"."id"
 
- # Backend Endpoints PENDIENTE DE REVISAR
+ # Backend Endpoints
+ 
+ -baseURL: https://api-order-lessons.onrender.com/api
+ 
  <details>
 <summary>:point_right: Auth Endpoints</summary>
 
