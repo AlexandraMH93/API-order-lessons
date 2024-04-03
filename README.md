@@ -68,7 +68,7 @@ Use .env.example to create .env file with your own settings. To start the api se
 
  # Backend Endpoints
  
- -baseURL: https://api-order-lessons.onrender.com/api
+ Base URL: https://api-order-lessons.onrender.com/api
  
  <details>
 <summary>:point_right: Auth Endpoints</summary>
